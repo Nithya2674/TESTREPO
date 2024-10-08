@@ -1,0 +1,5 @@
+INTERFACe
+{
+add();
+sub();
+}
